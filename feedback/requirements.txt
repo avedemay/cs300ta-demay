@@ -1,0 +1,6 @@
+You should keep the section numbers.
+
+In section 1.2, you should describe the target audience
+for this document, not the target audience for the project.
+
+Editing a task is a functional requiement.
